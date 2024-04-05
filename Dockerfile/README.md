@@ -1,5 +1,4 @@
-# Nama : Dani Adrian
-# NIM : 225150201111009
+## Nama : Dani Adrian
 
 ## Kriteria 1 : API dapat menyimpan buku
 1. API harus dapat menyimpan buku melalui route: <br/>
