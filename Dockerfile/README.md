@@ -26,7 +26,7 @@
         "year": 2010,
         "author": "John Doe",
         "summary": "Lorem ipsum dolor sit amet",
-        "publisher": "Dicoding Indonesia",
+        "publisher": "Dani",
         "pageCount": 100,
         "readPage": 25,
         "finished": false,
@@ -103,7 +103,7 @@
            {
              "id": "Qbax5Oy7L8WKf74l",
              "name": "Buku A",
-             "publisher": "Dicoding Indonesia"
+             "publisher": "Dani"
            },
                 
          ]
@@ -146,7 +146,7 @@
             "year": 2011,
             "author": "Jane Doe",
             "summary": "Lorem Dolor sit Amet",
-            "publisher": "Dicoding",
+            "publisher": "Dani",
             "pageCount": 200,
             "readPage": 26,
             "finished": false,
